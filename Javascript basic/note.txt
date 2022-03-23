@@ -1,0 +1,78 @@
+*PHÍM TẮT HAY
+    shift + tad =  lùi 1 tab 
+    alt + mũi tên lên xuống: di chuyển code 
+
+1. GIỚI THIỆU
+    1.1 Lời khuyên trước khóa học
+    1.2 Cài đặt môi trường 
+        - chrome
+        - visual studio code + live server
+
+
+2. BIẾN, COMMENTS, BUILT-IN
+    2.3 Sử dụng JavaScript với HTML
+        <script src="main.js"></script>
+
+    2.4 Ví dụ sử dụng JavaScript 
+
+    2.5 Khái niệm biến và cách sử dụng
+        var:
+            phân biệt hoa và thường
+            từ đầu tiên phải là chữ
+
+        a - z 
+	    A - Z
+	    0 - 9: ko đc đặt ở kí tự đầu tiên
+	    _ $
+
+    2.6 Thực hành sử dụng biến
+
+    2.7 Lưu ý khi học lập trình tại F8
+            Cách hoàn thành bài học video?
+                - Xem hết nội dung video là sẽ hoàn thành bài học
+                - Tắt extension chặn quảng cáo (VD adsblock) vì có thể gây xung đột (F8 không hề có quảng cáo)
+                - Xem video ở tốc độ vừa phải, tua quá nhanh hoặc để tốc độ quá nhanh có thể không hoàn thành được bài học
+            
+            Cách hoàn thành bài học text?
+                - Bạn cần đọc hết nội dung, cuộn xuống dưới cùng để hoàn thành bài
+                - Nếu cuộn xuống quá nhanh, có thể bạn sẽ không hoàn thành được bài học
+
+    2.8 Cú pháp comments là gì?    
+            ctrl + /
+            ghi chú
+            vô hiệu quá code
+    
+    2.9 Ví dụ sử dụng comments
+
+    2.10 Thuật ngữ Built-in là gì?
+        - alert
+	    - console: 
+            error
+            warn
+	    - confirm
+	    - prompt
+	    - set timeout: setTimeout
+            cho một đoạn code tự chạy sau 1 khoảng thời gian 
+            chạy 1 lần
+	    - set interval: setIterval  một đoạn code tự chạy liên tục sao 1 khoảng thời gian
+                        chạy liên tục 
+
+    2.11 Thực hành sử dụng console.log
+
+
+3. TOÁN TỬ, KIỂU DỮ LIỆU 
+    3.12 Làm quen với toán tử 
+        - Toán tử số học
+        - Toán tử gán
+        - Toán tử so sánh 
+        - Toán tử logic 
+
+    3.13 Toán tử số học 
+        Cộng 
+        Trừ
+        Nhân
+        Chia 
+        Luy thừa
+        chia lấy dư
+        tăng 1 giá trị số 
+        giảm 1 giá trị số. 

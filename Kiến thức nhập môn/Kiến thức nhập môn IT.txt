@@ -1,0 +1,17 @@
+1. client - sever
+	client: gửi yêu cầu và nhận kết quả của yêu cầu đã gửi. 
+	server: nhận yêu cầu, xử lí và gửi kết quả yêu cầu. 
+
+2. Domain
+	Ý nghĩa: miền --> tên miền
+
+	Cấu trúc:
+		blog.huan.com.vn
+		vn: top-level domain
+		com: second-level domain
+		huan: domain name
+		blog: subdomain (tên miền phụ)
+
+	Vai trò: dễ nhớ
+
+
